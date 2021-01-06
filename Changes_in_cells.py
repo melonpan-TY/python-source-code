@@ -1,5 +1,6 @@
 #python ver.3.8.0
 #pip ver 20.3.3
+#注意：作業フォルダにtest.xlsxを作ること
 
 #セルの変更
 
